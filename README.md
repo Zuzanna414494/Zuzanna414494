@@ -1,16 +1,24 @@
-### Hi there 👋
+# WITAJCIE KOCHANI 👋
 
-<!--
-**Zuzanna414494/Zuzanna414494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Zatem może ja opowiem co nie co o sobie:
 
-Here are some ideas to get you started:
+:woman_teacher: Aktualnie jestem studentką AGHu.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:woman_student:	 Jestem na kierunku Informatyka i Systemy inteligentne na wydziale EAIiIB.
+
+🔭 W przyszłości chciałabym bardzo pracować dla NASA.
+
+:church:	Jestem chrześcijanką.
+
+:running_woman:	Mają pasją są biegi długodystansowe.
+
+:people_hugging: Mega mocno interesuję się ludźmi, kocham ich, ich różnorodne charaktery i cudowne pomysły.
+
+:cat2:	Kocham z całęgo serduszka koty.
+
+### Ogólnie można się ze mną kontakotować zawsze, kiedy tylko ktoś tego zapragnie. Jestem do Waszej dyspozycji zawsze, kiedy nie śpię lub się nie uczę. 
+
+## Służę zawsze pomocą, uśmiechem i dobrym żartem. :white_heart:	
+
+![Cytat na całę życie](https://dailyverses.net/images/pl/ubg/xl/efezjan-4-32-3.jpg)
+
