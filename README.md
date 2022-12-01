@@ -18,6 +18,8 @@
 
 ### Ogólnie można się ze mną kontakotować zawsze, kiedy tylko ktoś tego zapragnie. Jestem do Waszej dyspozycji zawsze, kiedy nie śpię lub się nie uczę. 
 
+## A oto moja strona internetowa: [CO NIE CO O MNIE :)](https://zuzanna414494.github.io/)
+
 ## Służę zawsze pomocą, uśmiechem i dobrym żartem. :white_heart:	
 
 ![Cytat na całę życie](https://dailyverses.net/images/pl/ubg/xl/efezjan-4-32-3.jpg)
