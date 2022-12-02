@@ -20,8 +20,6 @@
 
 ## A oto moja strona internetowa: [CO NIE CO O MNIE :)](https://zuzanna414494.github.io/)
 
-## Jeszcze jedna stronka w ramachg Azure, ale tym razem nie o mnie: [STRONKA](https://mojastronka.z6.web.core.windows.net/)
-
 ## Służę zawsze pomocą, uśmiechem i dobrym żartem. :white_heart:	
 
 ![Cytat na całę życie](https://dailyverses.net/images/pl/ubg/xl/efezjan-4-32-3.jpg)
