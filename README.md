@@ -22,5 +22,9 @@
 
 ## Służę zawsze pomocą, uśmiechem i dobrym żartem. :white_heart:	
 
+### Tutaj jeszcze dorzucam link do repozytorium, w którym przedstawiam swoje zainteresowania związane z fizyką kwantową
+
+[Fizyka kwantowa](https://github.com/Zuzanna414494/PRE-ENGINEERS)
+
 ![Cytat na całę życie](https://dailyverses.net/images/pl/ubg/xl/efezjan-4-32-3.jpg)
 
