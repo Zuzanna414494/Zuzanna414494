@@ -22,7 +22,7 @@
 
 ## Służę zawsze pomocą, uśmiechem i dobrym żartem. :white_heart:	
 
-## Tutaj jeszcze dorzucam link do repozytorium, w którym przedstawiam swoje zainteresowania związane z fizyką kwantową  [Fizyka kwantowa](https://github.com/Zuzanna414494/PRE-ENGINEERS)
+## Tutaj jeszcze dorzucam link do repozytorium, w którym przedstawiam swoje zainteresowania związane z fizyką kwantową  [Fizyka kwantowa](https://github.com/Zuzanna414494/Fizyka)
 
 ## Udostępniam również link do artykułu, który opowiada o głebokim uczeniu się opartym na fizyce: [Artykuł o fizyce](https://arxiv.org/pdf/1711.10561v1.pdf) oraz [Strona, gdzie jest artykuł](https://paperswithcode.com/paper/physics-informed-deep-learning-part-i-data)
 
