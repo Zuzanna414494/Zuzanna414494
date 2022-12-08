@@ -14,7 +14,7 @@
 
 :people_hugging: Mega mocno interesuję się ludźmi, kocham ich, ich różnorodne charaktery i cudowne pomysły.
 
-:cat2:	Kocham z całęgo serduszka koty.
+:cat2:	Kocham z całego serduszka koty.
 
 ### Ogólnie można się ze mną kontakotować zawsze, kiedy tylko ktoś tego zapragnie. Jestem do Waszej dyspozycji zawsze, kiedy nie śpię lub się nie uczę. 
 
