@@ -24,5 +24,7 @@
 
 ## Tutaj jeszcze dorzucam link do repozytorium, w którym przedstawiam swoje zainteresowania związane z fizyką kwantową  [Fizyka kwantowa](https://github.com/Zuzanna414494/PRE-ENGINEERS)
 
+## Udostępniam również link do artykułu, który opowiada o głebokim uczeniu się opartym na fizyce: [Artykuł o fizyce](https://arxiv.org/pdf/1711.10561v1.pdf)
+
 ![Cytat na całę życie](https://dailyverses.net/images/pl/ubg/xl/efezjan-4-32-3.jpg)
 
