@@ -3,5 +3,3 @@
 
 ## A oto moja strona internetowa: [CO NIE CO O MNIE :)](https://zuzanna414494.github.io/)
 
-## Tutaj jeszcze dorzucam link do repozytorium, w którym przedstawiam swoje zainteresowania związane z fizyką kwantową  [Fizyka kwantowa](https://github.com/Zuzanna414494/Fizyka)
-
